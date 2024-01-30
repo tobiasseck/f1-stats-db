@@ -1,8 +1,8 @@
 # Step 1	Download the F1 folder from One Drive at
-#			https://datasmartpoint-my.sharepoint.com/:f:/p/tobias_seck-student/EnmhC0Ja6UpOpo2hTLYR6XIBa7SLzwQExASCZNdLDsiLsg?e=gO7Scs
+#		https://datasmartpoint-my.sharepoint.com/:f:/p/tobias_seck-student/EnmhC0Ja6UpOpo2hTLYR6XIBa7SLzwQExASCZNdLDsiLsg?e=gO7Scs
 # Step 2	Unpack and move the F1 folder to a location of your choice on your PC/Mac or network
 # Step 3	Use the Find & Replace function in MySQL Workbench
-#			(Strg + F / Ctrl + F / Cmd + F --> a search bar pops up above the SQL editor featuring a drop down menu on the left --> chose Find & Replace)
+#		(Strg + F / Ctrl + F / Cmd + F --> a search bar pops up above the SQL editor featuring a drop down menu on the left --> chose Find & Replace)
 # Step 4	Insert "Z:/DataSmart Point/SQL" into the find field and the location where you moved the F1 folder to on your PC into the replace field e.g. "C:/Users/User/Documents"
 # Step 5	Click "Replace All"
 # Step 6 	Run the full SQL script to install the F1 database, create all tables, and import their datasets
