@@ -9,7 +9,7 @@ This repository contains a comprehensive Formula 1 (F1) database setup and analy
 ### Step 1: Data Acquisition
 - Download the F1 data folder from One Drive:
 [Download Link](https://datasmartpoint-my.sharepoint.com/:f:/p/tobias_seck-student/EnmhC0Ja6UpOpo2hTLYR6XIBa7SLzwQExASCZNdLDsiLsg?e=gO7Scs)
-- Originally, I pulled the data from [Kaggle)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020). Before being able to use the data in the format provided in the download link, I had to clean the data.
+- Originally, I pulled the data from [Kaggle](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020). Before being able to use the data in the format provided in the download link, I had to clean the data.
 
 ### Step 2: Data Setup
 Unpack and move the F1 folder to your desired location on your PC/Mac or network.
