@@ -61,4 +61,4 @@ This project has been a deep dive into the world of Formula 1, offering insights
 
 ---
 
-For more detailed information and insights, visit my professional portfolio: [Tobias Seck's Portfolio](https://tobiasseck.com).
+This README is part of my portfolio in data analytics, business analytics, and data science, demonstrating my ability to make data useful and accessible. For more detailed information and insights, visit my professional portfolio: [Tobias Seck's Portfolio](https://tobiasseck.com).
